@@ -93,7 +93,7 @@ The analysis highlights key risk factors such as smoking status, cholesterol lev
 
 ---
 
-## 📂 Repository Structure (Visual)
+## 📂 Repository Structure 
 
 ```mermaid
 flowchart TD
@@ -119,3 +119,12 @@ flowchart TD
   E --> E2[deck]
   E2 --> E21[Stats_Project_Report.pdf]
 ```
+---
+## 📜 License
+
+- This project is licensed under the MIT License.
+
+## 🙏 Acknowledgments
+
+- Dataset provided by Sooyoung Her on Kaggle.
+- Guidance and support from faculty and peers.
