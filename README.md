@@ -1,4 +1,4 @@
-# Statisytical-Analysis-on-Alcohol-Data
+# Statistical-Analysis-on-Alcohol-Data
 
 ## 📌 Project Overview
 This project analyzes data from the **National Health Insurance Service in Korea** to predict whether a person drinks alcohol based on demographic, lifestyle, and health-related factors.  
